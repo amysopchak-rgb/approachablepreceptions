@@ -14,7 +14,7 @@
     
 
 <!---- For The Buttons ---->
-<button onclick="window.location.href='Biography.md';">Biography</button><br>
+<button onclick="window.location.href='Biography.html';">Biography</button><br>
 <button onclick="window.location.href='next-page.html';">Schedule</button><br>
 <button onclick="window.location.href='next-page.html';">Artwork</button><br>
 <button onclick="window.location.href='next-page.html';">Contact</button><br>
